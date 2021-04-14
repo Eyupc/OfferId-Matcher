@@ -1,0 +1,42 @@
+C:\Users\eyupt\source\repos\OfferID Matcher\OfferID Matcher\bin\Debug\net5.0\OfferID Matcher.exe
+C:\Users\eyupt\source\repos\OfferID Matcher\OfferID Matcher\bin\Debug\net5.0\OfferID Matcher.deps.json
+C:\Users\eyupt\source\repos\OfferID Matcher\OfferID Matcher\bin\Debug\net5.0\OfferID Matcher.runtimeconfig.json
+C:\Users\eyupt\source\repos\OfferID Matcher\OfferID Matcher\bin\Debug\net5.0\OfferID Matcher.runtimeconfig.dev.json
+C:\Users\eyupt\source\repos\OfferID Matcher\OfferID Matcher\bin\Debug\net5.0\OfferID Matcher.dll
+C:\Users\eyupt\source\repos\OfferID Matcher\OfferID Matcher\bin\Debug\net5.0\ref\OfferID Matcher.dll
+C:\Users\eyupt\source\repos\OfferID Matcher\OfferID Matcher\bin\Debug\net5.0\OfferID Matcher.pdb
+C:\Users\eyupt\source\repos\OfferID Matcher\OfferID Matcher\obj\Debug\net5.0\OfferID Matcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eyupt\source\repos\OfferID Matcher\OfferID Matcher\obj\Debug\net5.0\OfferID Matcher.AssemblyInfoInputs.cache
+C:\Users\eyupt\source\repos\OfferID Matcher\OfferID Matcher\obj\Debug\net5.0\OfferID Matcher.AssemblyInfo.cs
+C:\Users\eyupt\source\repos\OfferID Matcher\OfferID Matcher\obj\Debug\net5.0\OfferID Matcher.csproj.CoreCompileInputs.cache
+C:\Users\eyupt\source\repos\OfferID Matcher\OfferID Matcher\obj\Debug\net5.0\OfferID Matcher.dll
+C:\Users\eyupt\source\repos\OfferID Matcher\OfferID Matcher\obj\Debug\net5.0\ref\OfferID Matcher.dll
+C:\Users\eyupt\source\repos\OfferID Matcher\OfferID Matcher\obj\Debug\net5.0\OfferID Matcher.pdb
+C:\Users\eyupt\source\repos\OfferID Matcher\OfferID Matcher\obj\Debug\net5.0\OfferID Matcher.genruntimeconfig.cache
+C:\Users\eyupt\source\repos\OfferID Matcher\OfferID Matcher\bin\Debug\net5.0\AWSSDK.Core.dll
+C:\Users\eyupt\source\repos\OfferID Matcher\OfferID Matcher\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\eyupt\source\repos\OfferID Matcher\OfferID Matcher\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\eyupt\source\repos\OfferID Matcher\OfferID Matcher\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\eyupt\source\repos\OfferID Matcher\OfferID Matcher\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\eyupt\source\repos\OfferID Matcher\OfferID Matcher\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\eyupt\source\repos\OfferID Matcher\OfferID Matcher\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\eyupt\source\repos\OfferID Matcher\OfferID Matcher\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\eyupt\source\repos\OfferID Matcher\OfferID Matcher\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\eyupt\source\repos\OfferID Matcher\OfferID Matcher\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\eyupt\source\repos\OfferID Matcher\OfferID Matcher\bin\Debug\net5.0\Renci.SshNet.dll
+C:\Users\eyupt\source\repos\OfferID Matcher\OfferID Matcher\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
+C:\Users\eyupt\source\repos\OfferID Matcher\OfferID Matcher\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\eyupt\source\repos\OfferID Matcher\OfferID Matcher\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\eyupt\source\repos\OfferID Matcher\OfferID Matcher\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\eyupt\source\repos\OfferID Matcher\OfferID Matcher\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\eyupt\source\repos\OfferID Matcher\OfferID Matcher\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\eyupt\source\repos\OfferID Matcher\OfferID Matcher\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\eyupt\source\repos\OfferID Matcher\OfferID Matcher\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\eyupt\source\repos\OfferID Matcher\OfferID Matcher\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\eyupt\source\repos\OfferID Matcher\OfferID Matcher\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\eyupt\source\repos\OfferID Matcher\OfferID Matcher\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\eyupt\source\repos\OfferID Matcher\OfferID Matcher\obj\Debug\net5.0\OfferID Matcher.csproj.CopyComplete
+C:\Users\eyupt\source\repos\OfferID Matcher\OfferID Matcher\bin\Debug\net5.0\PeanutButter.INI.dll
+C:\Users\eyupt\source\repos\OfferID Matcher\OfferID Matcher\obj\Debug\net5.0\OfferID Matcher.csprojAssemblyReference.cache
+C:\Users\eyupt\source\repos\OfferID Matcher\OfferID Matcher\bin\Debug\net5.0\JObject.dll
+C:\Users\eyupt\source\repos\OfferID Matcher\OfferID Matcher\bin\Debug\net5.0\Newtonsoft.Json.dll

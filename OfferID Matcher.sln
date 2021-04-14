@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfferID Matcher", "OfferID Matcher\OfferID Matcher.csproj", "{C7777D27-3130-471A-8072-06B311070CF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7777D27-3130-471A-8072-06B311070CF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7777D27-3130-471A-8072-06B311070CF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7777D27-3130-471A-8072-06B311070CF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7777D27-3130-471A-8072-06B311070CF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABAA82A5-C261-42E0-B02C-F211F9B24CC8}
+	EndGlobalSection
+EndGlobal
