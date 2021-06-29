@@ -6,5 +6,5 @@ You just have to edit the config.ini and you can start immediately ☺.
 
 ﻿# **Discord**
  
- Eyup#3420
+ Eyup#1155
 
