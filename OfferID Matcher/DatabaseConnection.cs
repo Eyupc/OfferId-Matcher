@@ -29,7 +29,7 @@ namespace OfferID_Matcher
 
         public void DBConnect()
         {
-            String sql = "server =" + this.server + ";user =" + this.user + "; database = " + this.database + "; port =+" + this.port + "; password =" + this.password + ";";
+            String sql = "server =" + this.server + ";user =" + this.user + "; database = " + this.database + "; port =" + this.port + "; password =" + this.password + ";";
             this.connection = new MySqlConnection(sql);
             try
             {
